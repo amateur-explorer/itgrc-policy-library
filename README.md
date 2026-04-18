@@ -117,8 +117,6 @@ These templates are derived from real GRC implementations across BFSI, IT consul
 
 ## 📬 Connect
 
-- 🌐 Portfolio: [Akshaya-grc.netlify.app](https://Akshaya-grc.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/Akshaya-grc](https://linkedin.com/in/Akshaya-grc)
 - 📧 Consulting: akshayshrm39@gmail.com
 
 ---
